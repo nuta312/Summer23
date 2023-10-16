@@ -36,10 +36,23 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "git-widget-placeholder": "AYkerimNonStart"
+    "git-widget-placeholder": "AykerimTheEnd"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TheEnd">
+  <component name="RunManager" selected="Application.EndsLy">
+    <configuration name="EndsLy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.digital.aykerim.EndsLy" />
+      <module name="Summer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.digital.aykerim.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="NonStart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.digital.aykerim.NonStart" />
       <module name="Summer" />
@@ -68,6 +81,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EndsLy" />
         <item itemvalue="Application.TheEnd" />
         <item itemvalue="Application.NonStart" />
       </list>
