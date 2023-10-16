@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4c1b4ac-a834-4ef3-9a3c-adf8060e72e5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/rus/ComboString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/rus/FirstHalf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/rus/WithoutEnd.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +42,20 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FirstTwo">
+  <component name="RunManager" selected="Application.ComboString">
+    <configuration name="ComboString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.rus.ComboString" />
+      <module name="Summer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.rus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ExtraEnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.rus.ExtraEnd" />
       <module name="Summer" />
@@ -53,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.rus.FirstTwo" />
+    <configuration name="FirstHalf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.rus.FirstHalf" />
       <module name="Summer" />
       <extension name="coverage">
         <pattern>
@@ -66,8 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MakeAbba" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.rus.MakeAbba" />
+    <configuration name="FirstTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.rus.FirstTwo" />
       <module name="Summer" />
       <extension name="coverage">
         <pattern>
@@ -94,10 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ComboString" />
+        <item itemvalue="Application.FirstHalf" />
         <item itemvalue="Application.FirstTwo" />
         <item itemvalue="Application.ExtraEnd" />
         <item itemvalue="Application.MakeTags" />
-        <item itemvalue="Application.MakeAbba" />
       </list>
     </recent_temporary>
   </component>
