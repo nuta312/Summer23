@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-
     <list default="true" id="398f110c-129a-407b-8e21-fac12bfd991e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/digital/nurzat/HelloName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/digital/nurzat/HelloName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/digital/Denis/NonStart.java" afterDir="false" />
     </list>
-=======
->>>>>>> 56585ef52e352473fab44b72c20155e3cfc86f06
-=======
->>>>>>> 8fde8f0688bdc53e2e6f5ea2f11eff8335287289
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,8 +37,41 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-      <created>1697432054107</created>
-       <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1697432054107</updated>
+  <component name="RunManager" selected="Application.NonStart">
+    <configuration name="ComboString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.digital.Denis.ComboString" />
+      <module name="Summer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.digital.Denis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NonStart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.digital.Denis.NonStart" />
+      <module name="Summer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.digital.Denis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NonStart" />
+        <item itemvalue="Application.ComboString" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <servers />
+  </component>
 </project>
