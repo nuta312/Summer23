@@ -1,0 +1,13 @@
+Index: src/main/java/com/digital/sergey/MakeAbba.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package com.digital.sergey;\r\n\r\npublic class MakeAbba {\r\n    public String makeAbba(String a, String b) {\r\n        return a+b+b+a;\r\n    }\r\n\r\n}\r\n\r\n
+===================================================================
+diff --git a/src/main/java/com/digital/sergey/MakeAbba.java b/src/main/java/com/digital/sergey/MakeAbba.java
+--- a/src/main/java/com/digital/sergey/MakeAbba.java	
++++ b/src/main/java/com/digital/sergey/MakeAbba.java	
+@@ -6,4 +6,3 @@
+     }
+ 
+ }
+-
