@@ -5,7 +5,6 @@ public class MakeTags {
         return '<' + tag + '>' + word + "</" + tag + ">";
 
     }
-
     public static void main(String[] args) {
         System.out.println(makeTags("I","Hello!"));
     }
