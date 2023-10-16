@@ -1,4 +1,4 @@
-package kanybek;
+package com.digital.kanybek;
 
 public class HelloName {
     public static void main(String[] args) {
