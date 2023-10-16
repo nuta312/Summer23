@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f277fcb8-9aa8-4c25-90cf-d3cb9545602d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f277fcb8-9aa8-4c25-90cf-d3cb9545602d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,10 +36,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "git-widget-placeholder": "AykerimfirstHalf"
+    "git-widget-placeholder": "AYkerimNonStart"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.TheEnd">
     <configuration name="NonStart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.digital.aykerim.NonStart" />
       <module name="Summer" />
@@ -55,8 +53,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TheEnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.digital.aykerim.TheEnd" />
+      <module name="Summer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.digital.aykerim.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TheEnd" />
         <item itemvalue="Application.NonStart" />
       </list>
     </recent_temporary>
