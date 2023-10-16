@@ -4,8 +4,6 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d57eca0-3c54-47c2-a969-a82536f4e3bc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/digital/Denis/MakeOutWord.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
