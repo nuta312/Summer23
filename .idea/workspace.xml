@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f277fcb8-9aa8-4c25-90cf-d3cb9545602d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/digital/aykerim/LastChars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/digital/aykerim/LastChars.java" afterDir="false" />
-    </list>
+    <list default="true" id="f277fcb8-9aa8-4c25-90cf-d3cb9545602d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,12 +36,25 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "git-widget-placeholder": "AykerimLastChars"
+    "git-widget-placeholder": "AykerimSeeColor"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SeeColor">
+  <component name="RunManager" selected="Application.ExtraFront">
     <configuration name="EndsLy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.digital.aykerim.EndsLy" />
+      <module name="Summer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.digital.aykerim.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExtraFront" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.digital.aykerim.ExtraFront" />
       <module name="Summer" />
       <extension name="coverage">
         <pattern>
@@ -95,26 +105,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TheEnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.digital.aykerim.TheEnd" />
-      <module name="Summer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.digital.aykerim.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExtraFront" />
         <item itemvalue="Application.SeeColor" />
         <item itemvalue="Application.LastChars" />
         <item itemvalue="Application.MiddleThree" />
         <item itemvalue="Application.EndsLy" />
-        <item itemvalue="Application.TheEnd" />
       </list>
     </recent_temporary>
   </component>
