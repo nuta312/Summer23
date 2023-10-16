@@ -1,0 +1,18 @@
+Index: src/main/java/com/digital/aida/HelloName.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package com.digital.aida;\n\npublic class HelloName {\n    public String HelloName(String name) {\n        return \"Hello\" + name + \"!\";\n\n    }}\n\n}\n\n\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/com/digital/aida/HelloName.java b/src/main/java/com/digital/aida/HelloName.java
+--- a/src/main/java/com/digital/aida/HelloName.java	(revision 433d684c30f5540788ebb53830def4acedfd2307)
++++ b/src/main/java/com/digital/aida/HelloName.java	(date 1697466598976)
+@@ -6,6 +6,5 @@
+ 
+     }}
+ 
+-}
++    }
+ 
+-
