@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <list default="true" id="398f110c-129a-407b-8e21-fac12bfd991e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/src/main/java/com/digital/nurzat/HelloName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/digital/nurzat/HelloName.java" afterDir="false" />
     </list>
@@ -13,6 +14,14 @@
 >>>>>>> 56585ef52e352473fab44b72c20155e3cfc86f06
 =======
 >>>>>>> 8fde8f0688bdc53e2e6f5ea2f11eff8335287289
+=======
+    <list default="true" id="10ebbcac-2355-4e1f-aa1c-56ff2d9468ce" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/digital/payment/Visa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/digital/payment/VisaGold.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+>>>>>>> 9f4a0a6a5a7039613eec9133eae61789c69bc90e
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +35,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -43,8 +57,26 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-      <created>1697432054107</created>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f277fcb8-9aa8-4c25-90cf-d3cb9545602d" name="Changes" comment="" />
+      <created>1697472995088</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1697432054107</updated>
+      <updated>1697472995088</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
 </project>
