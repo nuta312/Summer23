@@ -6,5 +6,6 @@ public class HelloName {
         String name = "Nurzat";
         System.out.println("Hello " + name + '!');
 
+
     }
 }
