@@ -4,7 +4,7 @@ public class FirtsTwo {
     public static void main(String[] args) {
         System.out.println(firstTwo("djhk"));
     }
-    public static String firstTwo(aString str) {
+    public static String firstTwo(String str) {
         if(str.length() < 2)
             return str;
 
