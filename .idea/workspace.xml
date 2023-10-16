@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f277fcb8-9aa8-4c25-90cf-d3cb9545602d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/digital/aykerim/MakeOutWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/digital/aykerim/MakeOutWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,10 +36,10 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
   }
-}]]></component>
+}</component>
   <component name="TaskManager">
     <servers />
   </component>
