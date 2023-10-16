@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f277fcb8-9aa8-4c25-90cf-d3cb9545602d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/digital/aykerim/LastChars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/digital/aykerim/LastChars.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,12 +39,25 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "git-widget-placeholder": "AykerimEndsLy"
+    "git-widget-placeholder": "AykerimLastChars"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MiddleThree">
+  <component name="RunManager" selected="Application.SeeColor">
     <configuration name="EndsLy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.digital.aykerim.EndsLy" />
+      <module name="Summer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.digital.aykerim.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LastChars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.digital.aykerim.LastChars" />
       <module name="Summer" />
       <extension name="coverage">
         <pattern>
@@ -68,8 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NonStart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.digital.aykerim.NonStart" />
+    <configuration name="SeeColor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.digital.aykerim.SeeColor" />
       <module name="Summer" />
       <extension name="coverage">
         <pattern>
@@ -96,10 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SeeColor" />
+        <item itemvalue="Application.LastChars" />
         <item itemvalue="Application.MiddleThree" />
         <item itemvalue="Application.EndsLy" />
         <item itemvalue="Application.TheEnd" />
-        <item itemvalue="Application.NonStart" />
       </list>
     </recent_temporary>
   </component>
