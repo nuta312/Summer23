@@ -7,6 +7,3 @@ public class HelloName {
     }
 
 
-
-    }
-}
