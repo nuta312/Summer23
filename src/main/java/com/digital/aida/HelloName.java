@@ -5,8 +5,4 @@ public class HelloName {
         return "Hello" + name + "!";
 
     }
-
-
-
-    }
 }
