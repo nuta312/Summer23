@@ -34,7 +34,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FirstHalf">
+  <component name="RunManager" selected="Application.WithoutEnd">
     <configuration name="ExtraEnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.digital.Denis.ExtraEnd" />
       <module name="Summer" />
@@ -74,8 +74,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WithoutEnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.digital.Denis.WithoutEnd" />
+      <module name="Summer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.digital.Denis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WithoutEnd" />
         <item itemvalue="Application.FirstHalf" />
         <item itemvalue="Application.FirstTwo" />
         <item itemvalue="Application.ExtraEnd" />
