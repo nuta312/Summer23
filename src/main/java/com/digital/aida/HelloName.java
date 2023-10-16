@@ -4,7 +4,8 @@ public class HelloName {
     public String HelloName(String name) {
         return "Hello" + name + "!";
 
-    }
+    }}
+
 }
 
 
