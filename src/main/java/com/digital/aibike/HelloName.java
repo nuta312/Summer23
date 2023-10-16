@@ -1,9 +1,7 @@
-package com.digital.aida;
+package com.digital.aibike;
 
 public class HelloName {
-    public String HelloName(String name) {
+    public String helloName(String name) {
         return "Hello " + name + "!";
-
     }
-
 }
