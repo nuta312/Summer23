@@ -7,3 +7,9 @@ public class HelloName {
     }
     }
 
+<<<<<<< HEAD
+
+    }
+
+=======
+>>>>>>> origin
