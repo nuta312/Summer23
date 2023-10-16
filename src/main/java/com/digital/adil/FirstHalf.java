@@ -2,7 +2,6 @@ package com.digital.adil;
 
 public class FirstHalf {
 
-    public class FirstHalf {
         public static String firstHalf(String str) {
             return str.substring(0,str.length()/2);
 
