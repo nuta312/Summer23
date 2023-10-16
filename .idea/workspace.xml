@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-<<<<<<< HEAD
-<<<<<<< HEAD
+
     <list default="true" id="398f110c-129a-407b-8e21-fac12bfd991e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/src/main/java/com/digital/nurzat/HelloName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/digital/nurzat/HelloName.java" afterDir="false" />
     </list>
@@ -44,7 +43,7 @@
   }
 }</component>
       <created>1697432054107</created>
-      <option name="number" value="Default" />
+       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697432054107</updated>
 </project>
