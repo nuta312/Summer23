@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4c1b4ac-a834-4ef3-9a3c-adf8060e72e5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="true" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +19,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -132,10 +136,17 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="c4c1b4ac-a834-4ef3-9a3c-adf8060e72e5" name="Changes" comment="" />
+
       <created>1697462364858</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697462364858</updated>
+
+      <created>1697464139702</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697464139702</updated>
+
     </task>
     <servers />
   </component>
