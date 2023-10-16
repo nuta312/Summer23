@@ -1,4 +1,4 @@
-package com.digital.aibike;
+package com.digital.AsylCoding;
 
 public class MakeAbba {
     public String makeAbba(String a, String b) {
