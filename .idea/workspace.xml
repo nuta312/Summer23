@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+
     <list default="true" id="c4c1b4ac-a834-4ef3-9a3c-adf8060e72e5" name="Changes" comment="" />
+
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +39,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
+
   <component name="RunManager" selected="Application.ComboString">
     <configuration name="ComboString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.rus.ComboString" />
@@ -44,6 +47,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.rus.*" />
+        </pattern>
+      </extension>
+
+  <component name="RunManager" selected="Application.plusOut">
+    <configuration name="doubleChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.digital.zhyldyz.doubleChar" />
+      <module name="Summer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.digital.zhyldyz.*" />
+
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -51,6 +65,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+
     <configuration name="ExtraEnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.rus.ExtraEnd" />
       <module name="Summer" />
@@ -96,6 +111,16 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.rus.*" />
+        </pattern>
+      </extension>
+
+    <configuration name="plusOut" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.digital.zhyldyz.plusOut" />
+      <module name="Summer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.digital.zhyldyz.*" />
+
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,6 +130,7 @@
     </configuration>
     <recent_temporary>
       <list>
+
         <item itemvalue="Application.ComboString" />
         <item itemvalue="Application.FirstHalf" />
         <item itemvalue="Application.FirstTwo" />
@@ -117,11 +143,29 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="c4c1b4ac-a834-4ef3-9a3c-adf8060e72e5" name="Changes" comment="" />
+
+        <item itemvalue="Application.plusOut" />
+        <item itemvalue="Application.doubleChar" />
+      </task>
+    </component>
+  </component>
+
       <created>1697432054107</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697432054107</updated>
-    </task>
+
     <servers />
+
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
