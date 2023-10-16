@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="87219c21-e01f-48b1-8813-e5c68aef6a2e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/digital/aida/HelloName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/digital/aida/HelloName.java" afterDir="false" />
-    </list>
+    <list default="true" id="87219c21-e01f-48b1-8813-e5c68aef6a2e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,13 +34,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "NurjigitExtraEnd"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;NurjigitExtraEnd&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="MakeTags" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.digital.Nurjigit.MakeTags" />
