@@ -1,7 +1,12 @@
 package com.digital.aida;
 
 public class HelloName {
-    public static void main(String[] args) {
+    public String HelloName(String name) {
+        return "Hello" + name + "!";
+
+    }
+
+
 
     }
 }
