@@ -7,7 +7,5 @@ public class ExtraName {
     }
 
     public static void main(String[] args) {
-        System.out.println(extraEnd("Extra end"));
-
     }
 }
