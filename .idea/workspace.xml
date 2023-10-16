@@ -4,14 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4c1b4ac-a834-4ef3-9a3c-adf8060e72e5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/digital/nurzat/HelloName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/digital/nurzat/HelloName.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -27,17 +31,6 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
-  }
-}</component>
-  <component name="RunManager">
-    <configuration name="doubleChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.digital.zhyldyz.doubleChar" />
-      <module name="Summer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.digital.zhyldyz.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -47,14 +40,13 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.doubleChar" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c4c1b4ac-a834-4ef3-9a3c-adf8060e72e5" name="Changes" comment="" />
+      <changelist id="398f110c-129a-407b-8e21-fac12bfd991e" name="Changes" comment="" />
       <created>1697432054107</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
