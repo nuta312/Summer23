@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="87219c21-e01f-48b1-8813-e5c68aef6a2e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/digital/Nurjigit/FixExtraEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/digital/Nurjigit/FixExtraEnd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/digital/aida/HelloName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/digital/aida/HelloName.java" afterDir="false" />
+    <list default="true" id="f277fcb8-9aa8-4c25-90cf-d3cb9545602d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/digital/aykerim/MakeOutWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/digital/aykerim/MakeOutWord.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +20,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -34,20 +38,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "NurjigitFixExtraEnd"
   }
 }]]></component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="87219c21-e01f-48b1-8813-e5c68aef6a2e" name="Changes" comment="" />
-      <created>1697432054107</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1697432054107</updated>
-    </task>
     <servers />
   </component>
 </project>

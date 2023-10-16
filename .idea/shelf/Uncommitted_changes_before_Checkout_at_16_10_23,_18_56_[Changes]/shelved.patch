@@ -1,0 +1,42 @@
+Index: src/main/java/com/digital/aida/HelloName.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package com.digital.aida;\n\npublic class HelloName {\n    public String HelloName(String name) {\n        return \"Hello\" + name + \"!\";\n\n    }\n\n\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/com/digital/aida/HelloName.java b/src/main/java/com/digital/aida/HelloName.java
+--- a/src/main/java/com/digital/aida/HelloName.java	(revision 56585ef52e352473fab44b72c20155e3cfc86f06)
++++ b/src/main/java/com/digital/aida/HelloName.java	(date 1697460898321)
+@@ -4,6 +4,7 @@
+     public String HelloName(String name) {
+         return "Hello" + name + "!";
+ 
+-    }
++    }}
++
+ 
+ 
+Index: src/main/java/com/digital/adil/FirstTwo.java
+===================================================================
+diff --git a/src/main/java/com/digital/adil/FirstTwo.java b/src/main/java/com/digital/adil/FirstTwo.java
+deleted file mode 100644
+--- a/src/main/java/com/digital/adil/FirstTwo.java	(revision 56585ef52e352473fab44b72c20155e3cfc86f06)
++++ /dev/null	(revision 56585ef52e352473fab44b72c20155e3cfc86f06)
+@@ -1,16 +0,0 @@
+-package com.digital.adil;
+-
+-public class FirstTwo {
+-    public class FirstTwo {
+-        public static String firstTwo(String str) {
+-            if (str.length() >=3)
+-                return str.substring (0,2);
+-            return str;
+-        }
+-
+-        public static void main(String[] args) {
+-            System.out.println(firstTwo("John"));
+-
+-        }
+-    }
+-}
