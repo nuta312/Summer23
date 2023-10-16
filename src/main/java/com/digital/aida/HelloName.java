@@ -1,12 +1,17 @@
 package com.digital.aida;
 
 public class HelloName {
-    public String HelloName(String name) {
+    public static String HelloName(String name) {
         return "Hello" + name + "!";
 
     }
 
+    public static void main(String[] args) {
+
+        System.out.println(HelloName("Aida"));
+
+    }
 
 
     }
-}
+
