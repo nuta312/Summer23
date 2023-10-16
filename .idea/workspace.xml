@@ -49,6 +49,8 @@
           <option name="PATTERN" value="org.example.rus.*" />
         </pattern>
       </extension>
+    </configuration>
+  </component>
 
   <component name="RunManager" selected="Application.plusOut">
     <configuration name="doubleChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -113,6 +115,8 @@
           <option name="PATTERN" value="org.example.rus.*" />
         </pattern>
       </extension>
+    </configuration>
+
 
     <configuration name="plusOut" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.digital.zhyldyz.plusOut" />
@@ -148,7 +152,7 @@
         <item itemvalue="Application.doubleChar" />
       </task>
     </component>
-  </component>
+
 
       <created>1697432054107</created>
       <option name="number" value="Default" />
