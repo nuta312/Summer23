@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4c1b4ac-a834-4ef3-9a3c-adf8060e72e5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/digital/Rus/ComboString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/digital/Rus/ComboString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/digital/Rus/ExtraEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/digital/Rus/ExtraEnd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/digital/Rus/FirstHalf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/digital/Rus/FirstHalf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/digital/Rus/FirstTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/digital/Rus/FirstTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/digital/Rus/MakeAbba.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/digital/Rus/MakeAbba.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/digital/Rus/MakeOutWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/digital/Rus/MakeOutWord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/digital/Rus/MakeTags.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/digital/Rus/MakeTags.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/digital/Rus/WithoutEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/digital/Rus/WithoutEnd.java" afterDir="false" />
-    </list>
+    <list default="true" id="c4c1b4ac-a834-4ef3-9a3c-adf8060e72e5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -152,7 +142,7 @@
       <created>1697473105050</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-
+      <updated>1697473105050</updated>
     </task>
     <servers />
   </component>
