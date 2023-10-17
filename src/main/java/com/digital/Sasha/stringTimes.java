@@ -10,5 +10,9 @@ public class stringTimes {
 
         }
 
+    public static void main(String[] args) {
+
+    }
+
     }
 
