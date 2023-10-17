@@ -17,4 +17,8 @@ public class frontTimes {
         return result;
 
     }
+
+    public static void main(String[] args) {
+
+    }
 }
