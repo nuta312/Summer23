@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="a996c374-5169-446a-abc2-1ae4defed260" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/src/main/java/com/digital/Denis/NonStart.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
+=======
+>>>>>>> 7fef96a6b5348801040ce15286972379c69d21bd
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +40,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
@@ -48,6 +52,9 @@
     <task active="true" id="Default" summary="Default task">
       <changelist id="f277fcb8-9aa8-4c25-90cf-d3cb9545602d" name="Changes" comment="" />
       <created>1697472995088</created>
+=======
+      <created>1697432054107</created>
+>>>>>>> 7fef96a6b5348801040ce15286972379c69d21bd
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697472995088</updated>
