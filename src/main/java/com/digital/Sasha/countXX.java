@@ -10,4 +10,8 @@ public class countXX {
         } return result;
     }
 
+    public static void main(String[] args) {
+
+    }
+
 }
