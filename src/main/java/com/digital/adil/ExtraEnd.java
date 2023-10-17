@@ -1,5 +1,6 @@
 package com.digital.adil;
 
+
 public class ExtraEnd {
 
         public static String extraEnd(String str) {

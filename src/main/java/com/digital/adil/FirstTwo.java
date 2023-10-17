@@ -1,6 +1,10 @@
 package com.digital.adil;
 
+
+
+
 public class FirstTwo {
+
 
         public static String firstTwo(String str) {
             if (str.length() >=3)
