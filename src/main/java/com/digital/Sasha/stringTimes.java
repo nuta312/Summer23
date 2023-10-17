@@ -1,2 +1,14 @@
-package com.digital.Sasha;public class stringTimes {
-}
+package com.digital.Sasha;
+
+public class stringTimes {
+        public String stringTimes(String str, int n) {
+            String result = "";
+            for (int i =0; i<n;i++){
+                result=result+str;
+            }
+            return result;
+
+        }
+
+    }
+
