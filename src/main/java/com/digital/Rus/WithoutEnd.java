@@ -1,4 +1,4 @@
-<<<<<<< HEAD:src/main/java/org/example/rus/WithoutEnd.java
+package com.digital.Rus;<<<<<<< HEAD:src/main/java/org/example/rus/WithoutEnd.java
 package org.example.rus;
 
 public class WithoutEnd {

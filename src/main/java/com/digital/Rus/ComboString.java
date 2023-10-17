@@ -1,4 +1,4 @@
-<<<<<<< HEAD:src/main/java/org/example/rus/ComboString.java
+package com.digital.Rus;<<<<<<< HEAD:src/main/java/org/example/rus/ComboString.java
 package org.example.rus;
 
 public class ComboString {

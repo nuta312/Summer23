@@ -1,4 +1,4 @@
-package org.example.rus;
+package com.digital.Rus;
 
 public class MakeTags {
     public static String makeTags(String tag, String word) {

@@ -1,4 +1,4 @@
-<<<<<<< HEAD:src/main/java/org/example/rus/FirstHalf.java
+package com.digital.Rus;<<<<<<< HEAD:src/main/java/org/example/rus/FirstHalf.java
 package org.example.rus;
 
 public class FirstHalf {

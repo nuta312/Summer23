@@ -1,4 +1,4 @@
-package org.example.rus;
+package com.digital.Rus;
 
 public class MakeOutWord {
     public static String makeOutWord(String out, String word) {

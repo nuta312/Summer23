@@ -1,4 +1,4 @@
-package org.example.rus;
+package com.digital.Rus;
 
 public class ExtraEnd {
     public static String extraEnd(String str) {

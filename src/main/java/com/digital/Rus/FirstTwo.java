@@ -1,4 +1,4 @@
-package org.example.rus;
+package com.digital.Rus;
 
 public class FirstTwo {
     public static String firstTwo(String str) {
